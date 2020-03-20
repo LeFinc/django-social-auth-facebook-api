@@ -1,1 +1,2 @@
-settings_*.py
+settings_fb.py
+*/**/*.pyc
